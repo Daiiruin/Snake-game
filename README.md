@@ -45,3 +45,5 @@ Feel free to customize the game to your liking. You can modify the following asp
 - **Game Speed**: Adjust the speed of the snake by changing the `speed` variable in the `script.js` file.
 - **Game Over Conditions**: You can customize the conditions under which the game ends by modifying the `checkCollision` function in the `script.js` file.
 - **Styling**: Customize the game's appearance by editing the CSS in the `style.css` file.
+- **Do what you wan't**: You have so many other options to modificate ! HF
+
